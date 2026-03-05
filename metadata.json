@@ -2,14 +2,16 @@
   "name": "Lifetopia Gold",
   "symbol": "GOLD",
   "description": "Currency token used in Lifetopia World.",
-  "image": "https://YOUR_LINK/logo.png",
+  "image": "https://raw.githubusercontent.com/pashamuhammadd/lifetopia-token/main/logo.png",
+  "seller_fee_basis_points": 0,
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://YOUR_LINK/logo.png",
+        "uri": "https://raw.githubusercontent.com/pashamuhammadd/lifetopia-token/main/logo.png",
         "type": "image/png"
       }
-    ]
+    ],
+    "category": "image"
   }
 }
